@@ -1,5 +1,5 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 collections:
-- services
-  output: true
+  services:
+    output: true
