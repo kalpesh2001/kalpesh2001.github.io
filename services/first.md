@@ -21,9 +21,10 @@ Point of Contacts: x.y.z@associates.ice.dhs.gov; a.b.c@associates.ice.dhs.gov
 
 Request Parameters:
 
-1. SSN            Social security# or other identifier           Char(12)           required
-
-2. Passport#      Passport#. Not required if SSN is provided     Char(20)           not required
+| Name | Description | Data Type | Required? | Comments |
+|:--- | :--- | :--- | :--- | :--- |
+| SSN |  Social security# or other identifier | Char(12) | Required | | 
+| Passport# | Passport# of foreign national | Char(20) | Required | Not required if SSN is provided |
 
 Request Example:
 
