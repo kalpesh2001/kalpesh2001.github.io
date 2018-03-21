@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 ## Service name: get_info_by_id
