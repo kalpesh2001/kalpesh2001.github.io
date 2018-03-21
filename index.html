@@ -6,4 +6,9 @@ title: Hank Quinlan, Horrible Cop
 	<h1>Hi there, I'm Kalpesh Patel!</h1>
 	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
+{% for item in site.services %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}
 
