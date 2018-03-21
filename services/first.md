@@ -11,7 +11,7 @@ POC for Pre-requisite: x.y.z@associates.ice.dhs.gov; a.b.c@associates.ice.dhs.go
 
 [WSDL](https://insight.ice.dhs.gov/ICM/myservice_wsdl.xml)
 
-[Schema]((https://insight.ice.dhs.gov/ICM/schema.xml)
+[Schema](https://insight.ice.dhs.gov/ICM/schema.xml)
 
 Authentication method: OATH
 
