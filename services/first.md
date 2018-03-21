@@ -16,3 +16,19 @@ POC for Pre-requisite: x.y.z@associates.ice.dhs.gov; a.b.c@associates.ice.dhs.go
 Authentication method: OATH
 
 Point of Contacts: x.y.z@associates.ice.dhs.gov; a.b.c@associates.ice.dhs.gov
+
+[End Point](https://services.ice.dhs.gov/ice/get_result_by_name)
+
+Request Parameters:
+
+1. SSN            Social security# or other identifier           Char(12)           required
+
+2. Passport#      Passport#. Not required if SSN is provided     Char(20)           not required
+
+Request Example:
+
+```
+<xml><ssn: 123-45-7890>
+  <passport: 550697902>
+</xml>
+ ```
