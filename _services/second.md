@@ -1,6 +1,7 @@
 ---
 title: Second service
 description: This service searches alien by name
+poc: kalpesh@ice
 ---
 ## Service name: get_info_by_name
 
