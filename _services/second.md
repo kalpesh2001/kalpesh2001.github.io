@@ -4,6 +4,7 @@ title: Second service
 description: This service searches alien by name
 ---
 ## Service name: get_info_by_name
+
 Service Description: This service returns details about alien by name from the system xyz
 
 Source systems: EID
