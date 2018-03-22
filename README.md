@@ -2,4 +2,6 @@
 # All ICE Services
 
 
-[List of services](services/first.md)
+[First Service](services/first.md)
+
+[Second Service](services/second.md)
